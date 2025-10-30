@@ -9,8 +9,7 @@
 - Настроен Colab и подключён Google Drive  
 - Импортированы и изучены данные (`dataset-electronics-5M.parquet`)  
 - Сгенерированы эмбеддинги для случайной подвыборки текста  
-- Сохранён ноутбук и эмбеддинги в структуре проекта  
-- Выполнена очистка метаданных виджетов для корректного отображения на GitHub  
+- Сохранён ноутбук и эмбеддинги в структуре проекта   
 
 ## Colab
 [Открыть ноутбук в Colab](https://colab.research.google.com/github/BogdanDelektorskiy/Course_work_community_detection/blob/main/notebooks/course_work_DL_HSE.ipynb)
