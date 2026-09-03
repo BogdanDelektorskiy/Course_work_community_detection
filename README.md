@@ -1,1 +1,1 @@
-# Community Detection для улучшения товарных эмбеддингов
+git prune# Community Detection для улучшения товарных эмбеддингов
